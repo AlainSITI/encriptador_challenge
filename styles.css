@@ -1,0 +1,37 @@
+.body {
+    background: #F3F5FC;
+}
+
+.header {
+    background: #F3F5FC;
+}
+
+.header {
+    background-color: #F3F5FC;
+    width: 50%;
+    margin: auto;
+}
+
+.header_logo {
+    width: 1;
+    height: 50px;
+    margin-top: 1px;
+}
+
+#copiar {
+    visibility: hidden;
+}
+
+.img {
+    display: block;
+    margin: auto;
+}
+button{
+    display:flex;
+    gap:24px;
+    margin-top: 16px;
+}
+.display{
+    
+    display:flex;
+}
